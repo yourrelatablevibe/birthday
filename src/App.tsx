@@ -106,11 +106,12 @@ function App() {
             <div className="space-y-4 text-gray-700 text-lg leading-relaxed mb-8">
               <p className="flex items-center justify-center gap-2">
                 <Heart className="text-red-500 w-5 h-5" />
-                September 13th - Your Special Day!
+                JULY 25th - Your Special Day!
                 <Heart className="text-red-500 w-5 h-5" />
               </p>
               <p>Even though we're miles apart, my love for you knows no distance.</p>
               <p>Today, we celebrate YOU and all the joy you bring to my life!</p>
+              <p className="text-rose-500 font-semibold text-xl mt-4">A Cute Present from Mihir 💌</p>
             </div>
 
             <button
@@ -134,19 +135,24 @@ function App() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
                 {
-                  title: "My Love Letter",
-                  content: "My dearest Monika, every sunrise reminds me of your radiant smile, and every sunset whispers your name to my heart. Though miles separate us, my love for you grows stronger with each passing moment. You are my anchor in storms, my light in darkness, and my reason to believe in forever. Your voice is the melody that soothes my soul, and your love is the home I've been searching for all my life. No distance could ever diminish what we have - it only makes every moment we share more precious. You are not just my girlfriend; you are my best friend, my confidant, my everything. I carry your heart with me always, and I promise that one day soon, these words won't have to travel across oceans to reach you.",
+                  title: "my cupcake 💗",
+                  content: "My dearest Monika, every sunrise reminds me of your radiant smile, and every sunset whispers your name to my heart. Though miles separate us, my love for you grows stronger with each passing moment. You are my anchor in storms, my light in darkness, and my reason to believe in forever. Your voice is the melody that soothes my soul, and your love is the home I've been searching for all my life. No distance could ever diminish what we have - it only makes every moment we share more precious. You are not just my girlfriend; you are my best friend, my confidant, my everything. I carry your heart with me always, and I promise that one day soon, these words won't have to travel across oceans to reach you.\n\nYour Cookie\nMihir <3",
                   color: "from-pink-400 to-rose-500"
                 },
                 {
                   title: "19 Things I Love About You",
-                  content: "1.\nYour beautiful smile that lights up my world\n2.\nThe way you laugh at my silly jokes\n3.\nYour kindness towards everyone\n4.\nHow you make me feel like the luckiest person\n5.\nYour incredible strength and determination\n6.\nThe way you care for others\n7.\nYour amazing sense of humor\n8.\nHow you believe in me always\n9.\nYour beautiful heart and soul\n10.\nThe way you make ordinary moments special\n11.\nYour intelligence and wisdom\n12.\nHow you inspire me to be better\n13.\nYour patience and understanding\n14.\nThe love you show me every day\n15.\nYour dreams and ambitions\n16.\nHow you make me feel complete\n17.\nYour beautiful eyes that see the best in everything\n18.\nThe way you love unconditionally\n19.\nSimply being you - perfect in every way",
+                  content: "1. Your beautiful smile that lights up my world\n2. The way you care about me\n3. Your respect towards me\n4. How you make me feel like the luckiest person\n5. When you share your thoughts and problems with me\n6. The way you treat me like no one did\n7. Your good sense of humor\n8. How you believe in me always\n9. Your pure heart and soul\n10. The way you make ordinary moments special\n11. When you show your inner child infront of me\n12. How you inspire me to be better\n13. Your patience and understanding\n14. The way you give me comfort\n15. Your dreams and ambitions\n16. How you make me feel complete\n17. Your beautiful eyes that see the best in everything\n18. The way you love me unconditionally\n19. Simply being you - perfect in every way",
                   color: "from-purple-400 to-pink-500"
                 },
                 {
                   title: "Birthday Wishes",
-                  content: "May this year bring you endless joy, adventures, dreams fulfilled, love multiplied, laughter daily, success in everything, and the happiness you deserve!",
+                  content: "Happiest Birthday My Cupcake 🍰💖🌹🎊🎁\nI hope this year brings you all the dreams you deserve and I'll be right here cheering you on for every single one of them\nGod bless you!\nYou're the person who makes miles feel small and makes my heart feel so full\nEven though we're far apart today, I want you to know you're the first thought in my morning and the last one before I sleep\nCelebrating you from a distance isn't easy, but loving you has never been hard\nYou bring so much light, laughter, and warmth into my life, and I'm endlessly grateful that the universe let me find you\nI'm counting down the days until I can hug you tight, look into your eyes, and tell you all of this in person instead of through a screen\nUntil then, just know that every song, every sunset, every little thing that makes me smile reminds me of you\nThank you for being my person, my safe place, and my favorite girl in the whole world 🤌🏻\nI love you more than any distance could ever measure 💗😚\nOnce again, Happy Birthday, my love 🎂\nCan't wait to celebrate your special day in real life with you 💖🫂",
                   color: "from-rose-400 to-orange-500"
+                },
+                {
+                  title: "Our Beautiful Memories",
+                  content: "Every moment we've shared, every laugh we've had, every conversation that lasted hours, every 'good morning' and 'good night' text, every video call where we just stared at each other and smiled, every song that reminds me of you, every photo that captures your beauty, and every promise we've made for our future together. These memories are treasures I hold close to my heart.",
+                  color: "from-teal-400 to-cyan-500"
                 },
                 {
                   title: "Our Future",
