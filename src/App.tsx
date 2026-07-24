@@ -99,7 +99,7 @@ function App() {
                 Happy 19th Birthday
               </h1>
               <h2 className="text-4xl font-bold text-rose-600 mb-6 animate-pulse">
-                Aishna! 💕
+                Monika! 💕
               </h2>
             </div>
             
@@ -135,7 +135,7 @@ function App() {
               {[
                 {
                   title: "My Love Letter",
-                  content: "My dearest Aishna, every sunrise reminds me of your radiant smile, and every sunset whispers your name to my heart. Though miles separate us, my love for you grows stronger with each passing moment. You are my anchor in storms, my light in darkness, and my reason to believe in forever. Your voice is the melody that soothes my soul, and your love is the home I've been searching for all my life. No distance could ever diminish what we have - it only makes every moment we share more precious. You are not just my girlfriend; you are my best friend, my confidant, my everything. I carry your heart with me always, and I promise that one day soon, these words won't have to travel across oceans to reach you.",
+                  content: "My dearest Monika, every sunrise reminds me of your radiant smile, and every sunset whispers your name to my heart. Though miles separate us, my love for you grows stronger with each passing moment. You are my anchor in storms, my light in darkness, and my reason to believe in forever. Your voice is the melody that soothes my soul, and your love is the home I've been searching for all my life. No distance could ever diminish what we have - it only makes every moment we share more precious. You are not just my girlfriend; you are my best friend, my confidant, my everything. I carry your heart with me always, and I promise that one day soon, these words won't have to travel across oceans to reach you.",
                   color: "from-pink-400 to-rose-500"
                 },
                 {
@@ -281,7 +281,7 @@ function App() {
 
                 {/* Cake Top Text */}
                 <div className="absolute -top-6 left-1/2 transform -translate-x-1/2 bg-white px-4 py-1 rounded-full text-sm font-semibold text-purple-600 border-2 border-purple-300">
-                  Happy Birthday Aishna!
+                  Happy Birthday Monika!
                 </div>
               </div>
             </div>
@@ -325,7 +325,7 @@ function App() {
 
           <div className="text-center z-10 bg-white/90 backdrop-blur-sm rounded-3xl p-12 shadow-2xl max-w-3xl">
             <h1 className="text-6xl font-bold bg-gradient-to-r from-pink-600 via-purple-600 to-rose-600 bg-clip-text text-transparent mb-6 animate-pulse">
-              🎉 HAPPY BIRTHDAY AISHNA! 🎉
+              🎉 HAPPY BIRTHDAY MONIKA! 🎉
             </h1>
             
             <div className="text-2xl font-semibold text-gray-700 mb-8 space-y-2">
