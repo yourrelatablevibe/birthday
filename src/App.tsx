@@ -17,6 +17,10 @@ function App() {
   ];
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [currentSection]);
+
+  useEffect(() => {
     const interval = setInterval(() => {
       setParticles(prev => [
         ...prev,
@@ -183,7 +187,7 @@ function App() {
                       <Gift className="w-5 h-5" />
                       {card.title}
                     </h3>
-                    <p className={`leading-relaxed ${index === 0 ? 'text-sm' : index === 1 ? 'text-xs' : 'text-sm'} ${index === 1 ? 'whitespace-pre-line' : ''}`}>{card.content}</p>
+                    <p className="leading-relaxed text-sm whitespace-pre-line">{card.content}</p>
                   </div>
                 </div>
               ))}
